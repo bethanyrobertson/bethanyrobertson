@@ -18,4 +18,4 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 </ul>
 
 ## Spotify Live View
-[![Spotify](https://github-spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/124181746?si=f3656a2433134316)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=124181746&unique={true|1|on|yes})
