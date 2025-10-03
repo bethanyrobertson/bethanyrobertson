@@ -18,7 +18,7 @@
 
 ### GitHub Contributions Graph
 <div align="left">
-    <img src="https://ghchart.rshah.org/bethanyrobertson?theme=dark" alt="Contributions" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bethanyrobertson&theme=dracula" alt="Contributions" />
 </div>
 
 ## Spotify Live View
