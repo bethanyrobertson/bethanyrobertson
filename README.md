@@ -19,3 +19,4 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 
 ## Spotify Live View
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=124181746&unique={true|1|on|yes})
+<a href="[https://www.brober.xyz](https://open.spotify.com/user/124181746?si=c71bef62fbbf4510)"></a>
