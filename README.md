@@ -1,22 +1,22 @@
 ```
-__/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/\\\\\______        
- _\/\\\_______\/\\\_\/\\\///////////__\/\\\_____________\/\\\_________________/\\\///\\\____       
-  _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_______________/\\\/__\///\\\__      
-   _\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\_____\/\\\_____________\/\\\______________/\\\______\//\\\_     
-    _\/\\\/////////\\\_\/\\\///////______\/\\\_____________\/\\\_____________\/\\\_______\/\\\_    
-     _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_____________\//\\\______/\\\__   
-      _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\______________\///\\\__/\\\____  
-       _\/\\\_______\/\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\____\///\\\\\/_____ 
-        _\///________\///__\///////////////__\///////////////__\///////////////_______\/////_______
+$ npx cfonts "brober" -f simple3d -c '#DAC4E1'
+
 ```
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com/?color=DAC4E1&height=18&width=300&vCenter=true&lines=Bethany+Robertson;Design+Engineer;Perfecting+pixels" />
 <ul>
   <li> 💻 I'm currently working on <a href="https://www.brober.xyz">my portfolio</a> </li>
-  <li> 📫 How to reach me: <a href="mailto: bethany@bethanyrobertson.com">bethany@bethanyrobertson.com</a> </li>
-</li>
+  <li> 📫 How to reach me: <a href="mailto: bethany@bethanyrobertson.com">bethany@bethanyrobertson.com</a> </
 </ul>
+
+### GitHub Contributions Graph
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bethanyrobertson&theme=radical" alt="contributions" />
+</div>
 
 ## Spotify Live View
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=124181746&unique={true|1|on|yes})
-<a href="[https://www.brober.xyz](https://open.spotify.com/user/124181746?si=c71bef62fbbf4510)"></a>
+[Listen to my Spotify](https://open.spotify.com/user/124181746?si=c71bef62fbbf4510)
+
+$ npx cfonts "brober" -f simple3d -c '#DAC4E1'
+
