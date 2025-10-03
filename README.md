@@ -7,6 +7,7 @@
   \ \____/ \ \_\ \ \____/  \ \____/\ \____\ \ \_\ 
    \/___/   \/_/  \/___/    \/___/  \/____/  \/_/ 
 ```
+<img src="flowers-illo-2.png" alt="Flowers illustration">
 
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com/?color=DAC4E1&height=18&width=300&vCenter=true&lines=Bethany+Robertson;Design+Engineer;Perfecting+pixels" />
@@ -17,7 +18,7 @@
 
 ### GitHub Contributions Graph
 <div align="left">
-    <img src="https://ghchart.rshah.org/bethanyrobertson" alt="Contributions" />
+    <img src="https://ghchart.rshah.org/bethanyrobertson?theme=dark" alt="Contributions" />
 </div>
 
 ## Spotify Live View
