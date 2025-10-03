@@ -1,16 +1,21 @@
-## Hi there 👋
+```
+__/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/\\\\\______        
+ _\/\\\_______\/\\\_\/\\\///////////__\/\\\_____________\/\\\_________________/\\\///\\\____       
+  _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_______________/\\\/__\///\\\__      
+   _\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\_____\/\\\_____________\/\\\______________/\\\______\//\\\_     
+    _\/\\\/////////\\\_\/\\\///////______\/\\\_____________\/\\\_____________\/\\\_______\/\\\_    
+     _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_____________\//\\\______/\\\__   
+      _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\______________\///\\\__/\\\____  
+       _\/\\\_______\/\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\____\///\\\\\/_____ 
+        _\///________\///__\///////////////__\///////////////__\///////////////_______\/////_______
+```
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Bethany+Robertson;Design+Engineer;Perfecting+pixels" />
+<ul>
+  <li> 💻 I'm currently working on my portfolio <a href="https://www.brober.xyz">my portfolio</a> </li>
+  <li> 📫 How to reach me: <a href="mailto: bethany@bethanyrobertson.com">bethany@bethanyrobertson.com</a> </li>
+</li>
+</ul>
 
-<!--
-**bethanyrobertson/bethanyrobertson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Spotify Live View
+[![Spotify](https://github-spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/124181746?si=f3656a2433134316)
