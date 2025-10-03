@@ -1,5 +1,12 @@
 
-$ npx cfonts "brober" -f simple3d -c '#DAC4E1'
+```
+ __                       __                      
+/\ \       _ __    ___   /\ \         __    _ __  
+\ \ \____ /\` __\ / __`\ \ \ \____  / ,.`\ /\` __\
+ \ \  ,. \\ \ \/ /\ \_\ \ \ \  ,. \/\  __/ \ \ \/ 
+  \ \____/ \ \_\ \ \____/  \ \____/\ \____\ \ \_\ 
+   \/___/   \/_/  \/___/    \/___/  \/____/  \/_/ 
+```
 
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com/?color=DAC4E1&height=18&width=300&vCenter=true&lines=Bethany+Robertson;Design+Engineer;Perfecting+pixels" />
@@ -9,7 +16,7 @@ $ npx cfonts "brober" -f simple3d -c '#DAC4E1'
 </ul>
 
 ### GitHub Contributions Graph
-<div align="center">
+<div align="left">
     <img src="https://ghchart.rshah.org/bethanyrobertson" alt="Contributions" />
 </div>
 
@@ -17,5 +24,4 @@ $ npx cfonts "brober" -f simple3d -c '#DAC4E1'
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=124181746&unique={true|1|on|yes})
 [Listen to my Spotify](https://open.spotify.com/user/124181746?si=c71bef62fbbf4510)
 
-$ npx cfonts "brober" -f simple3d -c '#DAC4E1'
 
