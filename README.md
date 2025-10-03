@@ -18,7 +18,7 @@
 
 ### GitHub Contributions Graph
 <div align="left">
-    <img src="https://ghchart.rshah.org/DAC4E1/bethanyrobertson" alt="GitHub Contributions" />
+    <img src="https://ghchart.rshah.org/6B46C1/bethanyrobertson" alt="GitHub Contributions" />
 </div>
 
 ## Spotify Live View
