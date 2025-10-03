@@ -10,9 +10,9 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
         _\///________\///__\///////////////__\///////////////__\///////////////_______\/////_______
 ```
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Bethany+Robertson;Design+Engineer;Perfecting+pixels" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=DAC4E1&height=18&width=300&vCenter=true&lines=Bethany+Robertson;Design+Engineer;Perfecting+pixels" />
 <ul>
-  <li> 💻 I'm currently working on my portfolio <a href="https://www.brober.xyz">my portfolio</a> </li>
+  <li> 💻 I'm currently working on <a href="https://www.brober.xyz">my portfolio</a> </li>
   <li> 📫 How to reach me: <a href="mailto: bethany@bethanyrobertson.com">bethany@bethanyrobertson.com</a> </li>
 </li>
 </ul>
