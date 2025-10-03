@@ -1,7 +1,6 @@
-```
+
 $ npx cfonts "brober" -f simple3d -c '#DAC4E1'
 
-```
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com/?color=DAC4E1&height=18&width=300&vCenter=true&lines=Bethany+Robertson;Design+Engineer;Perfecting+pixels" />
 <ul>
@@ -11,7 +10,7 @@ $ npx cfonts "brober" -f simple3d -c '#DAC4E1'
 
 ### GitHub Contributions Graph
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bethanyrobertson&theme=radical" alt="contributions" />
+    <img src="https://ghchart.rshah.org/bethanyrobertson" alt="Contributions" />
 </div>
 
 ## Spotify Live View
