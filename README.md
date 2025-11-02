@@ -21,8 +21,4 @@
     <img src="https://ghchart.rshah.org/6B46C1/bethanyrobertson" alt="GitHub Contributions" />
 </div>
 
-## Spotify Live View
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=124181746&unique={true|1|on|yes})
-[Listen to my Spotify](https://open.spotify.com/user/124181746?si=c71bef62fbbf4510)
-
 
